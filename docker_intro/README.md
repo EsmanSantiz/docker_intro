@@ -7,7 +7,7 @@ El propósito de esta práctica es configurar un entorno de desarrollo aislado u
 
 ## Evidencias de Entrega
 Puedes consultar el reporte detallado con las capturas de pantalla y conclusiones individuales en el siguiente enlace:
-* [📄 Ver Reporte Técnico (PDF)](./Docker & Entornos Cloud)
+* [📄 Ver Reporte Técnico (PDF)](./Docker_&_Entornos_Cloud)
 
 ## Tecnologías y Herramientas
 * **Docker Desktop**: Motor de contenedores utilizado en el sistema anfitrión.
